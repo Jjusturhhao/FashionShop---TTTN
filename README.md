@@ -24,7 +24,11 @@ The dataset used in this project contains sales information from a fashion shop.
 - Order details
 - Revenue data
 
-These datasets are used to analyze business performance and identify important patterns in sales activities.
+Database Schema (ERD)
+
+The ERD above illustrates the relationships between tables used in this project. It shows how customer data, product information, and sales transactions are connected to support business analysis.
+
+![ERD](image/ERD.png)
 
 ## 3. Data Cleaning
 
@@ -57,11 +61,14 @@ Power BI was used to build an interactive dashboard that visualizes key business
 
 ### The dashboard includes several sections:
 
-- Sales Overview: Provides a summary of total revenue, total orders, and sales performance over time.
+5.1. Sales Overview: Provides a summary of total revenue, total orders, and sales performance over time.
+![Overview](image/overview.png)
 
-- Product Analysis: Shows the best-selling products and product categories contributing the most revenue.
+5.2. Product Analysis: Shows the best-selling products and product categories contributing the most revenue.
+![Product Analysis](image/ProductAnalysis.png)
 
-- Customer Analysis: Analyzes customer purchasing behavior and identifies important customer segments.
+5.3. Customer Analysis: Analyzes customer purchasing behavior and identifies important customer segments.
+![Customer Analysis](image/CustomerAnalysis.png)
 
 The dashboard helps stakeholders quickly understand business performance and key trends.
 
